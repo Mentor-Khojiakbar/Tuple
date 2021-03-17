@@ -4,9 +4,9 @@
 
 ##### Введите значение: 9
 
-| Given Tuple | OUTPUT |
+| Given Lists | OUTPUT |
 |   ---   |   ---  |
-| tuplex = [(4, 6, 2, 8, 3, 1)] | (4, 6, 2, 8, 3, 1, 9)  |
+| keys = ['Ten', 'Twenty', 'Thirty'], values = [10, 20, 30] | dict={'Ten': 10, 'Twenty':20, 'Thirty': 30}  |
 
 ##### Введите значение: 123
 
